@@ -1,0 +1,1 @@
+__NUXT_JSONP__("manifest.js", {routes:["\u002Forder-tracking","\u002FGLOXIAOPOCX3P2568CM","\u002Fcategories","\u002Fcategories\u002Ftelephones-et-tablettes-9532","\u002Fcheckout","\u002Fcart","\u002F","\u002Fsearch"]})
